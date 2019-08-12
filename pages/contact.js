@@ -4,5 +4,4 @@ const ContactPage = () => (
     <p>Do not contact us...ever</p>
   </div>
 );
-
 export default ContactPage;

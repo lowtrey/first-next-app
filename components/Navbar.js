@@ -6,7 +6,7 @@ const Navbar = () => {
     background: 'grey',
     justifyContent: 'space-between',
     padding: '1rem'
-  }
+  };
   return (
     <div style={styles}>
       <Link href='/'>
@@ -19,7 +19,7 @@ const Navbar = () => {
         <a>Contact Page</a>
       </Link>
     </div>
-  )
+  );
 };
 
 export default Navbar;
